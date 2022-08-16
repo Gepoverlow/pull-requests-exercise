@@ -1,5 +1,5 @@
 function brokenAddFunction(a, b) {
-  return a - b;
+  return a + b;
 }
 
 console.log(brokenAddFunction(5, 10)); // Should be 15
